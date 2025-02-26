@@ -1,6 +1,6 @@
-Necessario estar em kivymd2
+Need to use kivymd2
 
-Bibliotecas usadas
+Libraries used
 
 Python 3.13.1
 Kivy                2.3.1
